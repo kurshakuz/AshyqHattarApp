@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/kurshakuz/ashyqhattar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Read Privacy Policy [here](./privacy_policy.html) 
 
 ### Markdown
 
@@ -25,7 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-Read Privacy Policy [here](./privacy_policy.html) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
