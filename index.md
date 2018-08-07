@@ -1,31 +1,34 @@
-## Welcome to GitHub Pages
+## ASHYQ HATTAR
 
-You can use the [editor on GitHub](https://github.com/kurshakuz/ashyqhattar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ashyq Hattar сізге ең жақындарыңызбен ашық хаттармен, құттықтаулармен және жайдары көңілмен бөлесуге көмектесетін қосымша.
 
-Read Privacy Policy [here](./privacy_policy.html) 
+- Ашық хаттарды 20+ категориядан және 1000+ сурет ішінен ізде және жүкте
+- Атаулы жеке суреттерді құрастыр
+- Бір түймені ғана басып барлық жақындарыңмен қуанышпен бөліс!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+<div>
+  <a>
+  <img src="./assets/images/appstore.png" height="60">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ashyqhattar">
+  <img src="./assets/images/googleplay.png" height="60">
+  </a>
+</div>
+  Read Privacy Policy [here](./privacy_policy.html)
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1.  Numbered
+2.  List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
