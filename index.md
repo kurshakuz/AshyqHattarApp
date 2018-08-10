@@ -7,7 +7,7 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
 - Бір түймені ғана басып барлық жақындарыңмен қуанышпен бөліс!
 
 <div>
-  <a>
+  <a href="https://itunes.apple.com/kz/app/ashyq-hattar/id1423553378?mt=8">
   <img src="./assets/images/appstore.png" height="60">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.ashyqhattar">
