@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Ashyq Hattar]
 
-logo: [./assets/images/googleplay.png]
+logo: ./assets/images/icon.png
+description: Барлық ашық хаттар мен құттықтаулар бір жерде!
