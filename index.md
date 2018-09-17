@@ -16,7 +16,7 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
 </div>
 
   <div>
-    In media: 
+    Упоминания в медиа: 
     <br />
     <a href="https://forbes.kz/process/technologies/kakie_mobilnyie_prilojeniya_razrabotali_kazahstantsyi_etim_letom/"> Какие мобильные приложения разработали казахстанцы этим летом
     </a>
@@ -36,8 +36,6 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
     <a href="https://kursiv.kz/thumb//fresh1534386931.pdf">
     Поле для приложений
     </a>
-
-  <a>
   </div>
 
 Read Privacy Policy [here](./privacy_policy.html)
