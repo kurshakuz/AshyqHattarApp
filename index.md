@@ -15,7 +15,17 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
   </a>
 </div>
 
-![](./assets/images/screens/screen1.png) ![](./assets/images/screens/screen2.png) ![](./assets/images/screens/screen3.png) ![](./assets/images/screens/screen4.png)
+<div>
+  <img src="./assets/images/screens/screen1.png" width="10%">
+  <img src="./assets/images/screens/screen2.png" width="10%">
+</div>
+
+<div>
+  <img src="./assets/images/screens/screen3.png" width="10%">
+  <img src="./assets/images/screens/screen4.png" width="10%">
+</div>
+
+<!-- ![](./assets/images/screens/screen1.png) ![](./assets/images/screens/screen2.png) ![](./assets/images/screens/screen3.png) ![](./assets/images/screens/screen4.png) -->
 
 <div>
   Упоминания в медиа: 
