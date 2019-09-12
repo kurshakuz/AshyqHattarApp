@@ -16,13 +16,13 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
 </div>
 
 <div>
-  <img src="./assets/images/screens/screen1.png" width="50%">
-  <img src="./assets/images/screens/screen2.png" width="50%">
+  <img src="./assets/images/screens/screen1.png" width="40%">
+  <img src="./assets/images/screens/screen2.png" width="40%">
 </div>
 
 <div>
-  <img src="./assets/images/screens/screen3.png" width="50%">
-  <img src="./assets/images/screens/screen4.png" width="50%">
+  <img src="./assets/images/screens/screen3.png" width="40%">
+  <img src="./assets/images/screens/screen4.png" width="40%">
 </div>
 
 <!-- ![](./assets/images/screens/screen1.png) ![](./assets/images/screens/screen2.png) ![](./assets/images/screens/screen3.png) ![](./assets/images/screens/screen4.png) -->
