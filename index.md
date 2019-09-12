@@ -16,13 +16,13 @@ Ashyq Hattar сізге ең жақындарыңызбен ашық хатта�
 </div>
 
 <div>
-  <img src="./assets/images/screens/screen1.png" width="10%">
-  <img src="./assets/images/screens/screen2.png" width="10%">
+  <img src="./assets/images/screens/screen1.png" width="50%">
+  <img src="./assets/images/screens/screen2.png" width="50%">
 </div>
 
 <div>
-  <img src="./assets/images/screens/screen3.png" width="10%">
-  <img src="./assets/images/screens/screen4.png" width="10%">
+  <img src="./assets/images/screens/screen3.png" width="50%">
+  <img src="./assets/images/screens/screen4.png" width="50%">
 </div>
 
 <!-- ![](./assets/images/screens/screen1.png) ![](./assets/images/screens/screen2.png) ![](./assets/images/screens/screen3.png) ![](./assets/images/screens/screen4.png) -->
@@ -56,4 +56,4 @@ Read Privacy Policy [here](./privacy_policy.html)
 
 Shyngyskhan Abilkassov
 
-email: abilkasov@gmail.com
+email: s.abilkassov@gmail.com
